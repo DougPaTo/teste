@@ -12,7 +12,7 @@
 : <<'DESC'
 Sistema desenvolvido para instalar complentamente um servidor DC em Samba4 no Debian 8.10 Jessie
 Este sistema não foi testado em versões mais novas e/ou anteriores, portanto não me responsabilizo por erros.
-No encurtador de links utilize o seguinte comando para baixar o código wget goo.gl/Sm1hlX -O samba4deploy.sh
+No encurtador de links utilize o seguinte comando para baixar o código wget goo.gl/28pCdN -O samba4deploy.sh
 para executar faça bash samba4deploy.sh e siga os passos da instalação.
 Instalação do Debian 8.10
 Particionamento Necessário: 
